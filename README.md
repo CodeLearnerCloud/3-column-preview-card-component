@@ -37,7 +37,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Useful resources
 
-- [Github](https://github.com/anoshaahmed/3-column-preview-card) (Anosha Ahmed) - This helped me for Style. I really liked this pattern and will use it going forward.
+- [Anosha Ahmed](https://github.com/anoshaahmed/3-column-preview-card) - This helped me for Style. I really liked this pattern and will use it going forward.
 
 
 ## Author
